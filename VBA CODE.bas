@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Sub Mulitple_year_stock_data()
 
 ' Loop through all sheets
