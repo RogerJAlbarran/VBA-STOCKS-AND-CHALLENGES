@@ -1,4 +1,4 @@
-# The VBA and Wall Street
+# VBA and Wall Street
 
 ## Background
 
@@ -40,17 +40,6 @@ Used VBA scripting to analyze real stock market data.
 
 * You should also have conditional formatting that will highlight positive change in green and negative change in red.
 
-* The result should look as follows.
-
-![moderate_solution](Images/moderate_solution.png)
-
-### CHALLENGES
-
-1. Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume". The solution will look as follows:
-
-![hard_solution](Images/hard_solution.png)
-
-2. Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
 ### Other Considerations
 
