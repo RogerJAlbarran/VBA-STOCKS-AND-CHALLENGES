@@ -1,13 +1,12 @@
-# VBA-STOCKS-AND-CHALLENGES
-# Unit 2 | Assignment - The VBA of Wall Street
+# The VBA and Wall Street
 
 ## Background
 
-You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, you may choose to challenge yourself with a few of the challenge tasks.
+Used VBA scripting to analyze real stock market data. 
 
-### Before You Begin
+### Steps
 
-1. Create a new repository for this project called `VBA-challenge`. **Do not add this homework to an existing repository**.
+1. Create a new repository for this project called `VBA-challenge`. 
 
 2. Clone the new repository to your computer.
 
@@ -59,18 +58,3 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * Make sure that the script acts the same on each sheet. The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button.
 
-## Submission
-
-* To submit please upload the following to Github:
-
-  * A screen shot for each year of your results on the Multi Year Stock Data.
-
-  * VBA Scripts as separate files.
-
-* After everything has been saved, create a sharable link and submit that to <https://bootcampspot-v2.com/>.
-
-- - -
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
